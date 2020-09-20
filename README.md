@@ -8,9 +8,9 @@
 
 ### :warning: Alert
 
-:construction: react-slick@0.27.* releases are experimental.  
+:construction: react-slick@0.27._ releases are experimental.  
 :white_check_mark: **Use react-slick@0.26 in production** until we make our next stable release (react-slick@0.28)  
-:pray: We invite you to test react-slick@0.27.* in dev environment and report any breaking changes.
+:pray: We invite you to test react-slick@0.27._ in dev environment and report any breaking changes.
 
 ### Installation
 
@@ -118,4 +118,3 @@ open http://localhost:8080
 ## Contributing
 
 Please see the [contributing guidelines](./CONTRIBUTING.md)
-

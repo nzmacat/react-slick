@@ -615,7 +615,7 @@ export const getTrackCSS = spec => {
   }
   if (spec.fade) style = { opacity: 1 };
   if (trackWidth) style.width = trackWidth;
-  if (trackHeight) style.height = trackHeight;
+  //if (trackHeight) style.height = trackHeight;
 
   // Fallback for IE8
   if (window && !window.addEventListener && window.attachEvent) {
